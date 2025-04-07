@@ -1,1 +1,2 @@
-# PythonSalary
+# Python Salary Project
+For this project, I took on the role of a data scientist tasked with determining the top 5 places in the world where my salary would stretch the furthest in relation to the cost of living. I used Python to clean and transform the dataset; after exploring the data, I created visualization with Matplotlib and Seaborn to summarize my findings and identify the cities wehre salary-to-cost-of-living ratios were most favorable.
